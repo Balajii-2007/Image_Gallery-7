@@ -1,0 +1,12 @@
+Lib/
+Scripts/
+gallery/
+pyvenv.cfg
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
