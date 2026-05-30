@@ -175,13 +175,16 @@ document.getElementById("overlay").style.display = "none";
 
 
 ## OUTPUT
+<img width="838" height="396" alt="image" src="https://github.com/user-attachments/assets/790ce883-20cf-48e4-a082-3fb5d21cc07e" />
+<img width="836" height="471" alt="image" src="https://github.com/user-attachments/assets/b5864a05-a59c-4930-b71e-59d6ed9cdd4d" />
+<img width="834" height="467" alt="image" src="https://github.com/user-attachments/assets/c5407ff3-376e-4303-afad-fad6d47164ff" />
+<img width="831" height="460" alt="image" src="https://github.com/user-attachments/assets/3151f7ce-886f-4373-a224-68c9fbd99b75" />
+<img width="831" height="467" alt="image" src="https://github.com/user-attachments/assets/b1ce0511-e13c-469f-81ed-bfe0000ab8c1" />
 
-![](<Screenshot 2026-03-16 054305.png>) 
-![](<Screenshot 2026-03-16 054355.png>) 
-![](<Screenshot 2026-03-16 054419.png>) 
-![](<Screenshot 2026-03-16 054444.png>) 
-![](<Screenshot 2026-03-16 054505.png>) 
-![](<Screenshot 2026-03-16 054525.png>)
+
+
+
+
 
 ## RESULT
   The program for designing an interactive image gallery using HTML, CSS and JavaScript is executed successfully.
